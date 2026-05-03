@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: ppttr
+Version: 0.2.0
+Summary: PPTX translation tool -- Python CLI facade for Node.js/bun core engine
+Requires-Python: >=3.10
+License-File: LICENSE
+Dynamic: license-file

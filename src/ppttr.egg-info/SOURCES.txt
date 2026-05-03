@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+src/ppttr.egg-info/PKG-INFO
+src/ppttr.egg-info/SOURCES.txt
+src/ppttr.egg-info/dependency_links.txt
+src/ppttr.egg-info/entry_points.txt
+src/ppttr.egg-info/top_level.txt
